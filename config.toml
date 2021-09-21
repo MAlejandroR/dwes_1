@@ -1,0 +1,4 @@
+baseURL = 'http://MAlejandroR.github.io/dwes_1/'
+languageCode = 'es-ES'
+title = 'Desarrollo de Aplicacones Web en entorno servidor'
+theme=['docsy']
